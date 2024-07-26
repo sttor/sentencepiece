@@ -16,6 +16,7 @@
 
 import codecs
 import os
+print("YOYOYOYOYOYOYO")
 import string
 import subprocess
 import sys
