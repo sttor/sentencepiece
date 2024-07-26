@@ -23,6 +23,7 @@ from setuptools import Extension, setup
 from setuptools.command.build_ext import build_ext as _build_ext
 from setuptools.command.build_py import build_py as _build_py
 
+print("########kj3kjk3jk3j3kj3")
 sys.path.append(os.path.join('.', 'test'))
 
 
